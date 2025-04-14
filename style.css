@@ -93,6 +93,8 @@ h1 {
     margin-top: -125px;
     margin-left: 440px;
     border: 3px solid white;
+    box-shadow: 5px 0px 8px 2px grey;
+
  
 }
 ul {
@@ -104,4 +106,7 @@ ul {
     color: white;
     font-weight: bold;
     width: 100%;
+}
+a {
+    display: block;
 }
